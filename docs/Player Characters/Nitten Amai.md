@@ -14,7 +14,7 @@
 
 ## Vignette
 ---
-*Nitten has lived a rough life. For as long as he can remember Nitten has been ridiculed, ostracized, and even hunted because of his size and his ability for wanton destruction -- intentional or otherwise. He did his best to hide from people, keeping mostly to the woods but he often sat on the nearby hills and watched the townsfolk from afar, wishing he could experience their life. It was a kind soul that reached out to the small gnome and changed his life. This stranger helped Nitten get acclimated to indoor life. Nitten was slowly but surely able to integrate into the city lifestyle and -- with some help -- was able to become the person he wanted to be.*
+Nitten has lived a rough life. For as long as he can remember Nitten has been ridiculed, ostracized, and even hunted because of his size and his ability for wanton destruction -- intentional or otherwise. He did his best to hide from people, keeping mostly to the woods but he often sat on the nearby hills and watched the townsfolk from afar, wishing he could experience their life. It was a kind soul that reached out to the small gnome and changed his life. This stranger helped Nitten get acclimated to indoor life. Nitten was slowly but surely able to integrate into the city lifestyle and -- with some help -- was able to become the person he wanted to be.
 
 ## Physical Appearance
 ---

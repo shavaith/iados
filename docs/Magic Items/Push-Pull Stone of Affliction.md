@@ -1,7 +1,7 @@
 *Wonderous Item, rare*
 ## Description
 ---
-*A palm-sized smooth stone. Looks like it'd be perfect for skipping.*
+A palm-sized smooth stone. Looks like it'd be perfect for skipping.
 
 ## Mechanics
 ---

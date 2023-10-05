@@ -1,7 +1,7 @@
 *Wonderous Item, very rare*
 ## Description
 ---
-*A small pouch that seems to change appearance based on the current holder. It can hold many items and have items drawn from within it, although it is currently unknown where is it storing items put into it or pulling items from.*
+A small pouch that seems to change appearance based on the current holder. It can hold many items and have items drawn from within it, although it is currently unknown where is it storing items put into it or pulling items from.
 
 ## Mechanics
 ---

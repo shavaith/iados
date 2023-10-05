@@ -1,7 +1,7 @@
 *Wonderous Item, uncommon*
 ## Description
 ---
-*A small pair of silver stud earrings with a small dangling accent.*
+A small pair of silver stud earrings with a small dangling accent.
 
 ## Mechanics
 ---

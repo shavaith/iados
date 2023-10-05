@@ -1,7 +1,7 @@
 *Wonderous Item, uncommon*
 ## Description
 ---
-*A leather bag with 12 lime-colored seeds in it, accompanied by a piece of folded parchment with a drawing depicting placing a seed in an arm wound that leads to a drawing of a scab on the arm where the wound was.*
+A leather bag with 12 lime-colored seeds in it, accompanied by a piece of folded parchment with a drawing depicting placing a seed in an arm wound that leads to a drawing of a scab on the arm where the wound was.*
 
 ## Mechanics
 ---

@@ -1,7 +1,7 @@
 *Wonderous Item, uncommon*
 ## Description
 ---
-*A translucent blue gemstone pendant on a small gold chain, marked with a circle of inlaid gold that spawns an a gold arrow in the middle of the circle pointing in the direction it indicates.*
+A translucent blue gemstone pendant on a small gold chain, marked with a circle of inlaid gold that spawns an a gold arrow in the middle of the circle pointing in the direction it indicates.
 
 ## Mechanics
 ---

@@ -1,7 +1,7 @@
 *Weapon (arrow), very rare*
 ## Description
 ---
-*A single-use arrow tipped with a sharp hydra's tooth.*
+A single-use arrow tipped with a sharp hydra's tooth.
 
 ## Mechanics
 ---
