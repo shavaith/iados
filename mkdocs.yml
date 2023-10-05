@@ -39,8 +39,8 @@ theme:
         - search.suggest
         - search.highlight
 
-hide:
-  - path
+    hide:
+        - path
         
 # Extensions
 markdown_extensions:
