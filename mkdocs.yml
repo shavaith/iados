@@ -38,6 +38,9 @@ theme:
         - navigation.expand
         - search.suggest
         - search.highlight
+
+hide:
+  - path
         
 # Extensions
 markdown_extensions:
