@@ -12,8 +12,7 @@ theme:
         code: Ubuntu Mono
     language: en
     palette:
-      primary: indigo
-
+  
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
