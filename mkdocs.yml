@@ -12,6 +12,7 @@ theme:
         code: Ubuntu Mono
     language: en
     palette:
+      primary: indigo
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -33,6 +34,8 @@ theme:
     features:
         - navigation.instant
         - navigation.indexes
+        - navigation.tabs
+        - navigation.tabs.sticky
         - navigation.top
         - navigation.expand
         - search.suggest
