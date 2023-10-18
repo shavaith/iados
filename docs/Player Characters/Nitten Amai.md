@@ -24,6 +24,6 @@ Nitten is a well-built rock gnome with tan and weathered skin. He stands at 4-fe
 ---
 Nitten is a soft soul with a penchant for destruction. He is often seen running into battle headlong, not caring is his friends are close behind. He seems to thrive in battle, using his axe or a makeshift weapon (such as chairs) to get the job done. He often act very child-like, asking many questions or drawing pictures or spilling a variety of liquids everywhere from his [[Alchemy Jug]].
 
-
+---
 ## Tags
 #gnome #barbarian #nitten
